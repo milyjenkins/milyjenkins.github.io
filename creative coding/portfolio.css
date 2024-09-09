@@ -1,8 +1,7 @@
-<body style="background-color:rgb(221, 202, 237);">
-
-<br>
-<style>
-table {
+body{
+  background-color:rgb(221, 202, 237);
+}
+p{
   font-family: times new roman;
   border-collapse: collapse;
   width: 100%;
@@ -13,4 +12,3 @@ td, th {
   text-align: left;
   padding: 8px;
 }
-</style>
